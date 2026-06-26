@@ -2,9 +2,9 @@
 function App() {
 
   return (
-    <>
-     huiiiiiiiiiiiiiiii
-    </>
+    <div className="bg-red-400">
+     hiiiiiiiiiiiiiiii
+    </div>
   )
 }
 
